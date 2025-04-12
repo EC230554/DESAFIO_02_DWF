@@ -1,5 +1,8 @@
 # DESAFIO_02_DWF
 
+LINK DE VIDEO
+https://youtu.be/W981vn0F08o
+
 LINK DE POSTMAN 
 GET 
 
